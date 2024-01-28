@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "prisma.prisma",
+    "yzhang.markdown-all-in-one",
+    "visualstudioexptteam.vscodeintellicode",
+    "ms-vscode.vscode-typescript-next"
+  ]
+}
